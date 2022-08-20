@@ -17,7 +17,7 @@ Pan Paino
 
 Ado
 
-YOASOBI
+Ayase / YOASOBI
 
 星野源
 
