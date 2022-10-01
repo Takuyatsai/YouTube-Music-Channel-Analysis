@@ -12,6 +12,11 @@
 
 [2CELLOS](https://www.youtube.com/channel/UCyjuFsbclXyntSRMBAILzbw)
 
+[The Paino Guys](https://www.youtube.com/c/thepianoguys)
+
+[Joe Hisaishi 
+Official](https://www.youtube.com/channel/UCxyzciBLt1Hyw06dlqwAIkw)
+
 #### 個人或團體:guardsman:
 [Ado](https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA)
 
@@ -21,8 +26,18 @@
 
 [美波](https://www.youtube.com/channel/UC2JzylaIF8qeowc7-5VwwmA)
 
-#### 不同樂團、個人、Cover :japanese_castle:
+[あいみょん](https://www.youtube.com/user/aimyong)
+
+[ヨルシカ / n-buna Official](https://www.youtube.com/c/nbuna)
+
+[周興哲](https://www.youtube.com/channel/UC7S48XRADBqamQbgLxpBFcQ)
+
+[周杰倫](https://www.youtube.com/channel/UC8CU5nVhCQIdAGrFFp4loOQ)
+
+#### 不同樂團、Cover :japanese_castle:
 [The First Take](https://www.youtube.com/channel/UC9zY_E8mcAo_Oq772LEZq8Q)
 
 [kobasolo](https://www.youtube.com/channel/UCDbQblY1XASbgqOXmy6FOFQ)
+
+[First To Eleven](https://www.youtube.com/c/FirstToEleven)
 
