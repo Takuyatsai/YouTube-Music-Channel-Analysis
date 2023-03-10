@@ -1,6 +1,9 @@
 # YouTube-Music-Channel-Analysis
+![image](https://github.com/Takuyatsai/YouTube-Music-Channel-Analysis/blob/main/Practice/Homepage.png)
 
-本專案欲透過YouTube v3 API分析部分音樂相關頻道，並從公開的資料中了解各頻道的發展過程，其中可能從流量、訂閱人數、時間等著手。
+
+本專案透過YouTube v3 API分析部分音樂頻道當前的成長狀況，包括訂閱人數、影片的流量等內容。
+若想要從頭開始了解如何達成，可以從[此文章]開始探索(https://medium.com/@alextsai6290/01-%E4%B8%8D%E5%90%8C%E6%96%B9%E5%BC%8F%E8%A7%80%E5%AF%9Fyoutube%E6%95%B8%E6%93%9A-%E4%B8%80-b248ea6fe5bb)。
 
 ## 選擇頻道
 本專案主要查詢音樂相關頻道，並依個人判斷的主題作為分析目標
