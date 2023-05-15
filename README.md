@@ -27,5 +27,6 @@
 [kobasolo](https://www.youtube.com/channel/UCDbQblY1XASbgqOXmy6FOFQ)   |Cover |303萬|
 [First To Eleven](https://www.youtube.com/c/FirstToEleven)   |Cover |154萬|
 
-## 若想了解更多關於頻道的細節分析，可以參考[這篇](https://github.com/Takuyatsai/YouTube-Music-Channel-Analysis/blob/main/channel_data.ipynb)針對Ru's Paino Ru 味春捲頻道所進行的分析。
+## 備註
+若想了解更多關於頻道的細節分析，可以參考[這篇](https://github.com/Takuyatsai/YouTube-Music-Channel-Analysis/blob/main/channel_data.ipynb)針對Ru's Paino Ru 味春捲頻道所進行的分析。
 本篇主要使用Python抓取資料，透過Pandas, Numpy, Matplotlib, WordCloud等套件來完成此項專案
